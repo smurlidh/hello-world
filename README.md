@@ -10,3 +10,5 @@ The toothbrush needs to be customized for different use cases.
 Testing the PULL request and merging to the main branch.
 
 Making changes to the new test branch.
+
+Testing the PULL request and merging to the main branch. This is a new sentence I am adding to test conflict.
